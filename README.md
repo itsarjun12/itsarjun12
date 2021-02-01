@@ -16,7 +16,7 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 - ✨ Freelance contributor in google local guide and google crowdsource.
 - ✨ 100 hours internship 2018, 2nd ranker in my college.
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/itsarjun12/itsarjun12/blob/main/1936.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/itsarjun12/itsarjun12/blob/main/1936.gif"/>
 
 ### 😎 Hobbies & interests
 - ✨ Gaming Addict
@@ -30,7 +30,7 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 ### 💬 Learnings
 - ✨ Data structure and algorithms
 - ✨ Web development
-</br>
+
 <img align ="right" src="https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical"/>
  
 ### 📫 How to connect with me?
