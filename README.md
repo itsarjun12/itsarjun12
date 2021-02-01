@@ -1,4 +1,4 @@
-### Hello Geeks! 👋
+# Hello Geeks! 👋
 I am _Arjun Gaud_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _Bundelkhand institute of engineering & Technology, Jhansi_. I am an experienced developer skilled in C++, Full Stack Development,and its frameworks. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and open source work like Hacktoberfest 2020, HakinCodes, Crio's winter of doing'21 and so on.
 Recently, I have been doing lots of things & comptetions which will make me better in my domain. always want to be a learner because learning is life long process.
 
@@ -16,14 +16,20 @@ An ambitious voyager who loves to cook fries, philosophy, adventure in life, day
 - Freelance contributor in google local guide and google crowdsource.
 - 100 hours internship 2018, 2nd ranker in my college.
 
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/itsarjun12/itsarjun12/blob/main/1936.gif">
+
 ### 😎 Hobbies & interests
-- Fan of Anime & great storytelling art.
-- listening to variety of music & podcast
-- Reading philosophical things & books (favourite one "Sapiens")
-- Travelling at new places
-- Coding and Web development
-- Playstation gamer
-- Content writing at various topics
+- ✨ Gaming Addict
+- ✨ Watching Anime & fan of storytelling
+- ✨ Reading philosophical things & books (favourite one "Sapiens")
+- ✨ Badminton and Soccer
+- ✨ listening to variety of music & podcast
+- ✨ Voyager
+- ✨ Content writing at various topics
+ 
+## Learnings
+- Data structure and algorithms
+- Web development
 
 ### 📫 How to connect with me?
 - [Twitter](https://twitter.com/arjun_gaud12) 
