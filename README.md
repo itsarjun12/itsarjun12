@@ -31,6 +31,14 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 - ✨ Data structure and algorithms
 - ✨ Web development
 
+
+<p align="right" > 
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img hight="320" src="https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical"/>
+ </a>
+ </p>
+
+
 ### 📫 How to connect with me?
 - [Twitter](https://twitter.com/arjun_gaud12) 
 - [LinkedIn](https://www.linkedin.com/in/arjun-gaud-771bb4167/) 
@@ -40,11 +48,6 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 - [Blogger](https://mylazyblog12.blogspot.com/)
 
 
-<p align="right" > 
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img src="https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical"/>
- </a>
- </p>
 
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
