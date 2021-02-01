@@ -38,7 +38,13 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 - [Netlify portfolio 2021](https://the-awesome-arjun-site.netlify.app/)
 - Medium-[Arjun Gaud](https://arjun22.medium.com/)
 - [Blogger](https://mylazyblog12.blogspot.com/)
--[![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical)](https://github.com/itsarjun12/github-readme-stats)
+
+
+<p align="right" > 
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical"/>
+ </a>
+ </p>
 
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
