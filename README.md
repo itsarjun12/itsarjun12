@@ -30,7 +30,7 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 ### 💬 Learnings
 - ✨ Data structure and algorithms
 - ✨ Web development
-
+</br>
 <img align ="right" src="https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical"/>
  
 ### 📫 How to connect with me?
