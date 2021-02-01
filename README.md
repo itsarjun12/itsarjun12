@@ -30,15 +30,11 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 ### 💬 Learnings
 - ✨ Data structure and algorithms
 - ✨ Web development
-
-
 <p align="right" > 
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img hight="320" src="https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical"/>
  </a>
  </p>
-
-
 ### 📫 How to connect with me?
 - [Twitter](https://twitter.com/arjun_gaud12) 
 - [LinkedIn](https://www.linkedin.com/in/arjun-gaud-771bb4167/) 
