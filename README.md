@@ -2,7 +2,7 @@
 I am _Arjun Gaud_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _Bundelkhand institute of engineering & Technology, Jhansi_. I am an experienced developer skilled in C++, Full Stack Development,and its frameworks. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and open source work like Hacktoberfest 2020, HakinCodes, Crio's winter of doing'21 and so on.
 Recently, I have been doing lots of things & comptetions which will make me better in my domain. always want to be a learner because learning is life long process.
 
-<img align="right" alt="GIF" src="https://github.com/itsarjun12/itsarjun12/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/itsarjun12/itsarjun12/blob/master/code.gif?raw=true" width="400" height="320" />
 
 ### ⚡ One line that describes me best? 
 An ambitious voyager who loves to cook fries, philosophy, adventure in life, day dream at nights and sometime codes too.😉😉
