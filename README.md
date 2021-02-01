@@ -27,9 +27,9 @@ An ambitious voyager who loves to cook fries, philosophy, adventure in life, day
 - ✨ Voyager
 - ✨ Content writing at various topics
  
-## Learnings
-- Data structure and algorithms
-- Web development
+### 💬 Learnings
+- ✨ Data structure and algorithms
+- ✨ Web development
 
 ### 📫 How to connect with me?
 - [Twitter](https://twitter.com/arjun_gaud12) 
