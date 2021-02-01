@@ -42,8 +42,8 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 - [Blogger](https://mylazyblog12.blogspot.com/)
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
-<p align = "center" height ="300" width ="250">
-<img src="https://github.com/itsarjun12/itsarjun12/blob/main/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
+<p align = "center">
+<img height ="300" width ="250" src="https://github.com/itsarjun12/itsarjun12/blob/main/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
 </p>
 <!--
 **itsarjun12/itsarjun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
