@@ -41,9 +41,6 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 - [Medium](https://arjun22.medium.com/)
 - [Blogger](https://mylazyblog12.blogspot.com/)
 
-
-
-
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 <!--
 **itsarjun12/itsarjun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
