@@ -31,14 +31,14 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 - ✨ Data structure and algorithms
 - ✨ Web development
 
-<img align ="right" height="320" src="https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical"/>
+<img align ="right" src="https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical"/>
  
 ### 📫 How to connect with me?
 - [Twitter](https://twitter.com/arjun_gaud12) 
 - [LinkedIn](https://www.linkedin.com/in/arjun-gaud-771bb4167/) 
 - [My personal portfolio](https://itsarjun12.github.io/Portfolio/) 
 - [Netlify portfolio 2021](https://the-awesome-arjun-site.netlify.app/)
-- Medium-[Arjun Gaud](https://arjun22.medium.com/)
+- [Medium](https://arjun22.medium.com/)
 - [Blogger](https://mylazyblog12.blogspot.com/)
 
 
