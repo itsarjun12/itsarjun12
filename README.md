@@ -16,7 +16,7 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 - ✨ Freelance contributor in google local guide and google crowdsource.
 - ✨ 100 hours internship 2018, 2nd ranker in my college.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/itsarjun12/itsarjun12/blob/main/1936.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/itsarjun12/itsarjun12/blob/main/1936.gif">
 
 ### 😎 Hobbies & interests
 - ✨ Gaming Addict
@@ -30,11 +30,9 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 ### 💬 Learnings
 - ✨ Data structure and algorithms
 - ✨ Web development
-<p align="right" > 
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img hight="320" src="https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical"/>
- </a>
- </p>
+
+<img align ="right" height="320" src="https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical"/>
+ 
 ### 📫 How to connect with me?
 - [Twitter](https://twitter.com/arjun_gaud12) 
 - [LinkedIn](https://www.linkedin.com/in/arjun-gaud-771bb4167/) 
