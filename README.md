@@ -19,17 +19,16 @@ Recently, I have been doing lots of cool things & comptetions which will make me
 <img height="400" width="500" alt="GIF" align="right" src="https://github.com/itsarjun12/itsarjun12/blob/main/1936.gif"/>
 
 ### 😎 Hobbies & interests
-- ✨ Gaming Addict
+- ✨ Gaming, Music
 - ✨ Watching Anime & fan of storytelling
-- ✨ Reading philosophical things & books (favourite one "Sapiens")
-- ✨ Badminton and Soccer
-- ✨ listening to variety of music & podcast
-- ✨ Voyager
-- ✨ Content writing at various topics
+- ✨ Reading philosophical things,books & podcast
+- ✨ Running, Football
+- ✨ Love to do traveling & adventures
+- ✨ Content writer
  
 ### 💬 Learnings
-- ✨ Data structure and algorithms
-- ✨ Web development
+- ✨ C++, Data structure and algorithms
+- ✨ Web development, Open source
 
 <img align ="right" src="https://github-readme-stats.vercel.app/api?username=itsarjun12&hide=stars,issues&show_icons=true&theme=radical"/>
  
