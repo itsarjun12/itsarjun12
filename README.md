@@ -1,5 +1,5 @@
 # Hello Geeks!👋
-i am a fresher graduate of B.tech as specialisation in Computer Science and engineering from _Bundelkhand institute of engineering & Technology, Jhansi_. I am an experienced developer skilled in C++, Full Stack Development,and its frameworks. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and open source work like Hacktoberfest 2020, HakinCodes, Crio's winter of doing'21 and so on.
+I am a fresher graduate of B.tech as specialisation in Computer Science and engineering from _Bundelkhand institute of engineering & Technology, Jhansi_. I am an experienced developer skilled in C++, Full Stack Development,and its frameworks. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and open source work like Hacktoberfest 2020, HakinCodes, Crio's winter of doing'21 and so on.
 Recently, I have been doing lots of cool things & comptetions which will make me better in my domain. Always be a learner because learning is a life long process.
 
 <img align="right" alt="GIF" src="https://github.com/itsarjun12/itsarjun12/blob/main/code.gif?raw=true" width="500" height="420"/>
