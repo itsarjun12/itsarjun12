@@ -1,4 +1,4 @@
-👋 Hi there, I'm Arjun Gaud
+##👋 Hi there, I'm Arjun Gaud
 🎓 I'm a Computer Science graduate and a passionate Java Backend Developer with 3+ years of professional experience in designing and building scalable, high-performance backend systems using Java, Spring Boot, REST APIs, and Microservices.
 🚀 Currently focusing on writing clean, efficient, and production-ready code. I enjoy solving real-world problems through elegant backend solutions and constantly strive to upskill and stay updated with the latest tech trends.
 🛠️ Tech Stack
