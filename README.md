@@ -35,6 +35,7 @@ Cloud/DevOps (basic knowledge): Docker, AWS EC2
 - [Netlify portfolio 2021](https://the-awesome-arjun-site.netlify.app/)
 - [Medium](https://arjun22.medium.com/)
 - [Blogger](https://mylazyblog12.blogspot.com/)
+  
 📫 Let's connect! Feel free to check out my repositories, share feedback, or reach out for collaboration.
 <p align = "center">
 <img height ="300" width ="250" src="https://github.com/itsarjun12/itsarjun12/blob/main/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
